@@ -15,8 +15,6 @@ Apply Shapely values to a multiple linear regression model to explore each the e
 
 <!-- Next Project Here -->
 
-#
-
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Explainable AI, Data Analytics, Machine Learning Pipeline
