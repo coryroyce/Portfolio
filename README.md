@@ -22,3 +22,5 @@ Apply Shapely values to a multi-output regression model to explore how the featu
 - **Methodologies**: Machine Learning, Deep Learning, Explainable AI, Data Analytics, Machine Learning Pipeline
 - **Languages**: Python (Tensorflow, Keras, Pandas, Numpy, Scikit-Learn, XGBoost), Java Script (Google App Script), SQL
 - **Tools**: Tensorflow, XGBoost, MySQL, Git, Selenium, Google Cloud Platform (AI Platform, Sotrage, Functions), Jupyter Notebooks
+
+
