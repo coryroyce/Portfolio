@@ -11,7 +11,7 @@ Repository containing portfolio of data science and machine learning projects th
 
 Apply Shapely values to a multi-output regression model to explore how the features effects each of the outputs/labels independently. See [article.](https://towardsdatascience.com/explainable-ai-for-multiple-regression-2df70cfc9995)
 
-<br />
+<br /> <br /> <br />
 
 <img align="left" width="250" height="150" src="https://github.com/coryroyce/Facilities_ML_Project/blob/main/Reference/Images/Facility_ML_SHAP_Waterfall_Example_01.png"> **[Facilities Operations Past Due Work Prediction Model](https://github.com/coryroyce/Facilities_ML_Project/blob/main/Notebooks/Facilities_ML_Project.ipynb)**
 
