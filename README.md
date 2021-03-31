@@ -27,4 +27,4 @@ Use historical facilities work data to cerate a machine learning model to predic
 
 - **Methodologies**: Machine Learning, Deep Learning, Explainable AI, Data Analytics, Machine Learning Pipeline
 - **Languages**: Python (Tensorflow, Keras, Pandas, Numpy, Scikit-Learn, XGBoost), Java Script (Google App Script), SQL
-- **Tools**: Tensorflow, XGBoost, MySQL, Git, Selenium, Google Cloud Platform (AI Platform, Sotrage, Functions), Jupyter Notebooks
+- **Tools**: Tensorflow, CatBoost, XGBoost, MySQL, Git, Selenium, Google Cloud Platform (AI Platform, Sotrage, Functions), Jupyter Notebooks
