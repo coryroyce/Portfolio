@@ -13,20 +13,12 @@ Apply Shapely values to a multi-output regression model to explore how the featu
 
 <br /> <br /> <br />
 
-<img align="left" width="250" height="150" src="https://github.com/coryroyce/Facilities_ML_Project/blob/main/Reference/Images/Facility_ML_SHAP_Waterfall_Example_01.png"> **[Facilities Operations Past Due Work Prediction Model](https://github.com/coryroyce/Facilities_ML_Project/blob/main/Notebooks/Facilities_ML_Project.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/coryroyce/Facilities_ML_Project/blob/main/Reference/Images/Facility_ML_SHAP_Waterfall_Example_01.png"> **[Facilities Operations Past Due Work Prediction Model](https://github.com/coryroyce/Facilities_ML_Project)**
 
 Use historical facilities work data to cerate a machine learning model to predict past due work. Then review the model metrics and generate detailed explanations with SHAP.
 
 <br />
 
-
-<br/>
-
-<img align="left" width="250" height="150" src="https://github.com/coryroyce/Facilities_ML_Project/blob/main/Reference/Images/Facility_ML_SHAP_Waterfall_Example_01.png"> **[Facilities Operations Past Due Work Prediction Model](https://github.com/coryroyce/Facilities_ML_Project)**
-
-Use historical facilities work data to cerate a machine learning model to predict past due work. Then review the model metrics and generate detailed explanations with SHAP.
-
-<br/>
 
 #
 
